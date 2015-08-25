@@ -18,3 +18,12 @@ http://cthhqu.blog.51cto.com/7598297/1283673
 5、java高级进阶关于java多线程的应用 ThreadLocal多线程实例详解
 http://www.itokit.com/2012/0817/74676.html
 
+
+App界面设计
+
+1、App界面交互设计规范
+http://www.woshipm.com/ucd/193776.html
+2、App界面设计风格
+http://www.woshipm.com/ucd/193763.html
+
+
