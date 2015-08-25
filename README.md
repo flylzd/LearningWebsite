@@ -18,9 +18,13 @@ http://cthhqu.blog.51cto.com/7598297/1283673
 5、java高级进阶关于java多线程的应用 ThreadLocal多线程实例详解
 http://www.itokit.com/2012/0817/74676.html
 
+RecyclerView 相关
+
+1、RecyclerView 列表控件中简单实现时间线
+http://blog.csdn.net/qiujuer/article/details/47910185
+
 
 App界面设计
-
 1、App界面交互设计规范
 http://www.woshipm.com/ucd/193776.html
 2、App界面设计风格
